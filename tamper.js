@@ -1,12 +1,18 @@
 // ==UserScript==
 // @name         Salesforce CSM Quick Edits
+// @description  Hide extra fields not needed for frequent CSM updates
+// @copyright    N/A
+// @license      N/A
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Hide extra fields not needed for frequent CSM updates
 // @author       You
 // @match        https://cloudinary.lightning.force.com/lightning/o/Account/*
 // @grant        none
+// @updateURL    https://github.com/swachtma/tamperScripts/blob/master/tamper.js
 // ==/UserScript==
+// ==OpenUserJS==
+// @author       swachtma
+// ==/OpenUserJS==
 
 (function() {
   "use strict";
