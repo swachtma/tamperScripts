@@ -1,10 +1,10 @@
 // ==UserScript==
 // @namespace     https://openuserjs.org/users/swachtma
-// @name          Getting Started with a User Script
-// @description   Showing the current basic and recommended format for a User script.
+// @name          CSM Salesforce Quick Edits
+// @description   Hide non-essential fields for frequent CSM updates
 // @copyright     2019, swachtma (https://openuserjs.org/users/swachtma)
 // @license       OSI-SPDX-Short-Identifier
-// @version       0.0.0
+// @version       1.0.0
 // @include       https://www.example.com/*
 // @grant none
 // @match         https://cloudinary.lightning.force.com/lightning/o/Account/*
