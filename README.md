@@ -1,6 +1,6 @@
 # User scripts for Cloudinary
 
-Scripts in this repo are automatically pushed as updates to https://openuserjs.org as commits are pushed to the master branch. To see a full listing of published scripts visit https://openuserjs.org/users/swachtma.
+Scripts in this repo are automatically pushed as updates to https://openuserjs.org as commits are published to the master branch. To see a full listing of published scripts visit https://openuserjs.org/users/swachtma.
 
 ## Usage
 
@@ -16,7 +16,7 @@ Install from: https://openuserjs.org/scripts/swachtma/CSM_Salesforce_Quick_Edits
 
 This script work best when you've created an account view for all assigned accounts, with a view for critical/frequently updated fields.
 
-1. To setup login to Salesforce and view the accounts tab.
+1. To setup, login to Salesforce and view the accounts tab.
 2. In the Account listview dropdown, search for "Account with CSM Comments"
    ![Find the Account With Comments Report](readme_images/accountWithComments.png)
 3. Next, clone the report so you can make your own filtered view: Settings Cog > Clone Report
