@@ -1,18 +1,24 @@
 // ==UserScript==
-// @name         Salesforce CSM Quick Edits
-// @description  Hide extra fields not needed for frequent CSM updates
-// @copyright    N/A
-// @license      N/A
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @author       You
-// @match        https://cloudinary.lightning.force.com/lightning/o/Account/*
-// @grant        none
-// @updateURL    https://github.com/swachtma/tamperScripts/blob/master/tamper.js
+// @namespace     https://openuserjs.org/users/swachtma
+// @name          Getting Started with a User Script
+// @description   Showing the current basic and recommended format for a User script.
+// @copyright     2019, swachtma (https://openuserjs.org/users/swachtma)
+// @license       OSI-SPDX-Short-Identifier
+// @version       0.0.0
+// @include       https://www.example.com/*
+// @grant none
+// @match         https://cloudinary.lightning.force.com/lightning/o/Account/*
 // ==/UserScript==
+
 // ==OpenUserJS==
-// @author       swachtma
+// @author swachtma
 // ==/OpenUserJS==
+
+/**
+ *
+ * Please begin typing or paste your User script now.
+ *
+ */
 
 (function() {
   "use strict";
