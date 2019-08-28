@@ -14,12 +14,6 @@
 // @author swachtma
 // ==/OpenUserJS==
 
-/**
- *
- * Please begin typing or paste your User script now.
- *
- */
-
 (function() {
   "use strict";
 
