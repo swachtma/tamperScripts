@@ -3,7 +3,7 @@
 // @name          CSM Salesforce Quick Edits
 // @description   Hide non-essential fields for frequent CSM updates
 // @copyright     2019, swachtma (https://openuserjs.org/users/swachtma)
-// @license       OSI-SPDX-Short-Identifier
+// @license       MIT
 // @version       1.0.0
 // @include       https://www.example.com/*
 // @grant none
