@@ -5,8 +5,8 @@
 // @copyright     2019, swachtma (https://openuserjs.org/users/swachtma)
 // @license       MIT
 // @version       1.0.1
-// @include       https://cloudinary.lightning.force.com/lightning/o/Account/*
-// @match         https://cloudinary.lightning.force.com/lightning/o/Account/*
+// @include       https://cloudinary.lightning.force.com/*
+// @match         https://cloudinary.lightning.force.com/*
 // @grant         none
 // ==/UserScript==
 
