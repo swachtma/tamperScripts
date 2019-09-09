@@ -4,7 +4,7 @@
 // @description   Hide non-essential fields for frequent CSM updates
 // @copyright     2019, swachtma (https://openuserjs.org/users/swachtma)
 // @license       MIT
-// @version       1.0.2
+// @version       1.0.3
 // @include       https://cloudinary.lightning.force.com/*
 // @match         https://cloudinary.lightning.force.com/*
 // @grant         none
@@ -26,7 +26,7 @@
 .tooltip-trigger {display: none !important;}
 .forcePageBlockSectionEdit .slds-form .slds-grid:nth-child(7) {display: table-header-group;}
 .forcePageBlockSectionEdit .slds-grid {display: block;}
-
+.mdp .forcePageBlockSectionEdit {display: block !important;}
 `;
   var style = document.createElement("style");
   style.type = "text/css";
