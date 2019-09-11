@@ -20,13 +20,16 @@
   // Your code here...
   let newStyles = `
 .forcePageBlockSectionEdit {display: none;}
-.forcePageBlockSectionEdit:nth-of-type(6) {display: block;}
+.forcePageBlockSectionEdit:nth-of-type(6), .forcePageBlockSectionEdit:nth-of-type(14) {display: block;}
 .forcePageBlockSectionEdit .slds-form {display: table; width: 100%}
 .tooltip {display: none !important;}
 .tooltip-trigger {display: none !important;}
 .forcePageBlockSectionEdit .slds-form .slds-grid:nth-child(7) {display: table-header-group;}
 .forcePageBlockSectionEdit .slds-grid {display: block;}
+
 .mdp .forcePageBlockSectionEdit {display: block !important;}
+
+.modal-container {width: 100% important!; max-width: 80% !important;}
 `;
   var style = document.createElement("style");
   style.type = "text/css";
