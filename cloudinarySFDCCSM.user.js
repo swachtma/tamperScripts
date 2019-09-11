@@ -4,7 +4,7 @@
 // @description   Hide non-essential fields for frequent CSM updates
 // @copyright     2019, swachtma (https://openuserjs.org/users/swachtma)
 // @license       MIT
-// @version       1.0.4
+// @version       1.1.0
 // @include       https://cloudinary.lightning.force.com/*
 // @match         https://cloudinary.lightning.force.com/*
 // @grant         none
